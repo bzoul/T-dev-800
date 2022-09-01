@@ -1,0 +1,1 @@
+global.base64='test';
